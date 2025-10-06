@@ -1,11 +1,11 @@
 seo:
   title: "Emma Thompson - UX/UI Designer"
   description: "Welcome to my portfolio! I'm Emma Thompson, a UX/UI designer and front-end developer based in Boston. I specialize in creating user-centered digital experiences that are both beautiful and functional."
-title: "Hey, I'm Emma Thompson UX/UI Designer"
-description: "I craft intuitive digital experiences where design meets functionality. Based in Boston, bringing ideas to life through code and creativity."
+title: "Hey, I'm Jing as Frontend Developer."
+description: "I craft digital experiences where clarity meets purpose. Bridging design and development through focus, empathy, and code."
 hero:
   links:
-    - label: "Use this template"
+    - label: "Contact Me"
       to: https://github.com/nuxt-ui-templates/portfolio
       color: "neutral"
   images:
@@ -30,8 +30,8 @@ hero:
 about:
   title: "About Me"
   description: |
-    As a UX/UI designer and front-end developer with 6 years of experience, I leverage my Boston University Interactive Design degree to craft user-centered digital experiences.
-    My approach blends creative strategy with technical expertise, transforming concepts into functional, purposeful digital products that seamlessly integrate design and technology.
+    Learn more about my journey as a Boston-based UX/UI Designer & Front-End Developer, my design philosophy, and my passion for crafting intuitive digital experiences.
+    Hi, I'm Emma Thompson, a UX/UI Designer and Front-End Developer based right here in Boston. For the past six years, I've been immersed in the world of digital product creation, focusing on building experiences that are not just functional, but genuinely intuitive and engaging for users.
 experience:
   title: Work Experience
   items:
