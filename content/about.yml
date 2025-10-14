@@ -1,27 +1,95 @@
 title: About Me
-description: Learn more about my journey as a Boston-based UX/UI Designer & Front-End Developer, my design philosophy, and my passion for crafting intuitive digital experiences.
+description: Where creativity meets logic and planning becomes action — I turn ideas into digital experiences that connect with people on a human level.
 content: |
-  Hi, I'm **Emma Thompson**, a UX/UI Designer and Front-End Developer based right here in Boston. For the past six years, I've been immersed in the world of digital product creation, focusing on building experiences that are not just functional, but genuinely intuitive and engaging for users.
+  Hi, I'm **Jing**, a front-end engineer with a background in UX design and project management.I love connecting creativity with logic — translating ideas into meaningful digital experiences that work beautifully and make sense.
 
-  My path started at **Boston University**, where I earned a degree in Interactive Design. It was there I discovered my dual passion for the visual language of design and the logical puzzle of code. Since then, I've honed my skills in both areas, believing that the best digital products are born from a deep understanding of both aesthetics and implementation.
+  ### Integration as My Core
 
-  ### My Design Philosophy
+  My keyword is integration., I specialize in blending design creativity, development logic, and project management planning —turning abstract ideas into tangible digital experiences.Curiosity keeps me exploring the unknown, while steady execution helps me bring ideas to life with empathy and precision.
 
-  My design philosophy is rooted in **empathy** and **problem-solving**. I believe great design starts with understanding the 'why' – the user's needs, motivations, and pain points. I use research, iterative prototyping (often with tools like Figma), and user testing to ensure the solutions I build are truly effective.
+  ### Where It All Began
 
-  I strive to create interfaces that feel effortless, where functionality and beauty work hand-in-hand. Whether I'm crafting pixel-perfect UIs or writing clean Vue.js/Nuxt.js code, my focus is always on creating value for the end-user.
+  My path hasn’t been a straight line.I started in design research, focusing on how people interact with systems.There, I discovered the power of design — how it can make complexity feel simple and bring technology closer to people.Later, when I entered the world of product development and project management,I learned to navigate uncertainty, make decisions amid ambiguity,and realized that what I truly love is building products.
 
-  ### What Drives Me
+  ### Bridging Design and Engineering
 
-  What keeps me excited about this work is the constant learning and the challenge of translating complex ideas into simple, elegant solutions. There's nothing more rewarding than seeing a design come to life and knowing it's making someone's digital interaction easier or more enjoyable.
+  Over time, I noticed the gap between design and engineering.Without technical understanding, design ideas often remain as sketches instead of products.
+  To bridge that gap, I decided to start over — studying information management,diving into system analysis, and eventually training in front-end development.Each step strengthened my ability to think structurally and communicate through the language of engineering.
 
-  ### Beyond the Screen
+  ### Design, Logic, and Leadership
 
-  When I'm not designing or coding, you might find me exploring Boston's latest coffee shops, hiking nearby trails, or occasionally contributing to open-source projects.
+  My design background sharpened my sensitivity to detail and human experience.Technical training gave me the logic to turn creativity into actionable solutions.Project management taught me how to balance vision with reality,align teams, and move ideas forward with clarity.
 
-  Thanks for stopping by. Feel free to browse my [projects](/projects) or [get in touch](/#contact) if you'd like to collaborate!
+  ### Where I Am Now
+  Today, I focus on front-end development —building interfaces that combine usability with aesthetic clarity, guided by design thinking.
+  I enjoy shifting between roles, acting as a translator between designers and engineers,helping ideas move smoothly from concept to execution.
+
+  If you'd like to see how I turn ideas into action, you can explore my [projects](/projects) or or take a look at my <a href="https://drive.google.com/file/d/1JawDY6emyMfX4aAqFU3HRof5ew917d42/view?usp=sharing" target="_blank" rel="noopener noreferrer">CV</a>.
 images:
   - src: https://images.unsplash.com/photo-1744877478622-a78c7a3336f6?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
     alt: My coffee workspace
   - src: https://images.unsplash.com/photo-1744429523595-2c06b8611242?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
     alt: My trip to Tokyo
+experience:
+  title: Work Experience
+  items:
+    - position: "Frontend Engineer at"
+      date: "2025/04 - Present"
+      company:
+        name: Rollingstar
+        url: "http://60.250.108.238/RS_web/index.html"
+        color: "#54D7FD"
+      contributions:
+        - "lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        - "lorem ipsum dolor sit amet, consectetur adipiscing elit."
+      achievements:
+        - "lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        - "lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    - position: "System Analyst at"
+      date: "2024/04 - 2024/09"
+      company:
+        name: InterSense
+        url: "https://www.intersense.com.tw/"
+        color: "#C3CCCC"
+      contributions:
+        - "Conducted requirement interviews and translated business logic into technical specifications."
+        - "Authored technical documentation defining data flow and business processes, including field structure design aligned with user behavior."
+      achievements:
+        - "Optimized workflow through \"subtractive design,\" successfully reducing operational steps by 10%."
+    - position: "Project Manager at"
+      date: "2022/06 - 2023/09"
+      company:
+        name: Learnik
+        url: "https://learnik.io/"
+        color: "#6EEE9A"
+      contributions:
+        - "Led a large-scale system integration project consolidating five systems into a unified platform with consistent UI/UX design."
+        - "Applied design thinking to define user roles, workflows, and data schema, followed by full interface design execution."
+        - "Designed and implemented QA scripts for load testing and system reliability validation."
+        - "Managed five IT service projects using waterfall methodology and JIRA, collaborating with government, healthcare, and SME clients (e.g., Taoyuan City Government Streetlight Platform, Orthopedics Annual Meeting System, Postal Procurement System)."
+      achievements:
+        - "The Taoyuan Streetlight System won the National Sustainable Development Award (2024) and the 20th Public Construction Golden Thumb Award (Excellence and Innovation)."
+        - "Achieved 100% on-time project delivery, generating approximately NT$4M in revenue."
+education:
+  title: Education
+  items:
+    - degree: "Master's in Design"
+      school: "National Yunlin University of Science and Technology"
+      date: "2017/09 - 2021/01"
+      location: "Yunlin, Taiwan"
+    - degree: "Bachelor's in Information Management (Second Degree)"
+      school: "National Taipei University of Business"
+      date: "2023/09 - 2026/01"
+      location: "Taipei, Taiwan"
+professional_development:
+  title: Professional Development
+  items:
+    - program: "Frontend Engineer Professional Training"
+      institution: "TibaMe"
+      date: "2024/10 - 2025/02"
+    - program: "PMP Project Management Professional Certification"
+      institution: "iSpan"
+      date: "2024/01 - 2024/05"
+    - program: "The Complete 2024 Web Development Bootcamp"
+      institution: "Udemy"
+      date: "2023/10 - 2024/03"

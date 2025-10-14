@@ -45,10 +45,14 @@ useSeoMeta({
         container: '!pt-0'
       }"
     >
+      <LandingWorkExperience v-if="page.body?.experience" :page="{ experience: page.body.experience }" />
+      <!-- <LandingEducation v-if="page.body?.education" :page="{ education: page.body.education }" /> -->
+      <!-- <LandingProfessionalDevelopment v-if="page.body?.professional_development" :page="{ professional_development: page.body.professional_development }" /> -->
       <MDC
         :value="page.content"
         unwrap="p"
       />
+
       <div class="flex flex-row justify-center items-center py-10 space-x-[-2rem]">
         <PolaroidItem
           v-for="(image, index) in page.images"
