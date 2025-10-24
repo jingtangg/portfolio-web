@@ -1,30 +1,39 @@
 title: About Me
 description: Where creativity meets logic and planning becomes action — I turn ideas into digital experiences that connect with people on a human level.
 content: |
-  Hi, I'm **Jing**, a front-end engineer with a background in UX design and project management.I love connecting creativity with logic — translating ideas into meaningful digital experiences that work beautifully and make sense.
+  ### Who I Am
 
-  ### Integration as My Core
+  Hi, I'm Jing, a frontend engineer with a background in UX design and product management.
 
-  My keyword is integration., I specialize in blending design creativity, development logic, and project management planning —turning abstract ideas into tangible digital experiences.Curiosity keeps me exploring the unknown, while steady execution helps me bring ideas to life with empathy and precision.
+  I love connecting creativity with logic—translating ideas into meaningful digital experiences that work beautifully and make sense.
+
+  My keyword? Integration. I specialize in blending design creativity, development logic, and project management planning—turning abstract ideas into tangible digital products.
+
 
   ### Where It All Began
 
-  My path hasn’t been a straight line.I started in design research, focusing on how people interact with systems.There, I discovered the power of design — how it can make complexity feel simple and bring technology closer to people.Later, when I entered the world of product development and project management,I learned to navigate uncertainty, make decisions amid ambiguity,and realized that what I truly love is building products.
+  My path hasn't been linear.
 
-  ### Bridging Design and Engineering
+  I started in design research, exploring how people interact with systems. There, I discovered the power of design—how it can make complexity feel simple and bring technology closer to people.
 
-  Over time, I noticed the gap between design and engineering.Without technical understanding, design ideas often remain as sketches instead of products.
-  To bridge that gap, I decided to start over — studying information management,diving into system analysis, and eventually training in front-end development.Each step strengthened my ability to think structurally and communicate through the language of engineering.
+  Later, in product development and project management, I learned to navigate uncertainty, make decisions amid ambiguity, and discovered what I truly love: building products.
 
-  ### Design, Logic, and Leadership
+  But I noticed the gap between design and engineering. Without technical understanding, design ideas often remain sketches instead of shipped products.
 
-  My design background sharpened my sensitivity to detail and human experience.Technical training gave me the logic to turn creativity into actionable solutions.Project management taught me how to balance vision with reality,align teams, and move ideas forward with clarity.
+  So I decided to start over—studying information management, system analysis, and frontend development. Each step strengthened my ability to think structurally and communicate through code.
 
-  ### Where I Am Now
-  Today, I focus on front-end development —building interfaces that combine usability with aesthetic clarity, guided by design thinking.
-  I enjoy shifting between roles, acting as a translator between designers and engineers,helping ideas move smoothly from concept to execution.
+  ### What I Bring
 
-  If you'd like to see how I turn ideas into action, you can explore my [projects](/projects) or or take a look at my <a href="https://drive.google.com/file/d/1JawDY6emyMfX4aAqFU3HRof5ew917d42/view?usp=sharing" target="_blank" rel="noopener noreferrer">CV</a>.
+  Design gave me sensitivity to detail and human experience. Engineering gave me the logic to turn creativity into solutions. Product management taught me to balance vision with reality.
+
+  Today, I focus on frontend development—building interfaces that combine usability with clarity, guided by design thinking.
+
+  I enjoy shifting between roles, acting as a translator between designers and engineers, helping ideas move from concept to execution.
+
+  ---
+
+  Want to see how I work?
+  → [Explore my projects](/projects) or [Download my CV](https://drive.google.com/file/d/1JawDY6emyMfX4aAqFU3HRof5ew917d42/view?usp=sharing)
 images:
   - src: https://images.unsplash.com/photo-1744877478622-a78c7a3336f6?q=80&w=1587&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
     alt: My coffee workspace

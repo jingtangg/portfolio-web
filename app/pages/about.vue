@@ -50,7 +50,7 @@ useSeoMeta({
       <!-- <LandingProfessionalDevelopment v-if="page.body?.professional_development" :page="{ professional_development: page.body.professional_development }" /> -->
       <MDC
         :value="page.content"
-        unwrap="p"
+        class="prose prose-gray dark:prose-invert max-w-none"
       />
 
       <div class="flex flex-row justify-center items-center py-10 space-x-[-2rem]">
